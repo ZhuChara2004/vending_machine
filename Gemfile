@@ -5,4 +5,5 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby "3.1.2"
 
-gem "money"
+gem "tty-prompt"
+gem "tty-table"
