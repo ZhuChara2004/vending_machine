@@ -1,4 +1,6 @@
-require './lib/models.rb'
+# frozen_string_literal: true
+
+require "./lib/models.rb"
 
 class Stock
   attr_reader :products

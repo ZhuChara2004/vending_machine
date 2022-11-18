@@ -9,3 +9,4 @@ gem "tty-prompt"
 gem "tty-table"
 
 gem "byebug"
+gem "rspec"
