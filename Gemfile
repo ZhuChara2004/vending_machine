@@ -7,3 +7,5 @@ ruby "3.1.2"
 
 gem "tty-prompt"
 gem "tty-table"
+
+gem "byebug"
